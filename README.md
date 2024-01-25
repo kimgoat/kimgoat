@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am kimgoat👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgoat&show_icons=true&theme=shadow_green)
+
+
 
 <!--
 **kimgoat/kimgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
