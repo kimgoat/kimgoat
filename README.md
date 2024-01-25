@@ -6,8 +6,25 @@ text=I'am%20kimgoat-nl-😀
 -nl-: enter
 -->
 
+## 📚 Dev Blog
+
+<div>
+  <a href="https://kimyeongseo.tistory.com">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
+  </a>
+</div>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kimyeongseo&theme=default)](https://kimyeongseo.tistory.com/)
 
 
+
+
+
+
+
+
+
+## 📌 Kimgoat's Github stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgoat&show_icons=true&theme=shadow_green&)
 
 
