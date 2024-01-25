@@ -1,8 +1,14 @@
-### Hi there I am kimgoat👋
+![header](https://capsule-render.vercel.app/api?type=venom&text=kimgoat&height=300&color=random)
+
+<!--
+text=I'am%20kimgoat-nl-😀
+%20: blink
+-nl-: enter
+-->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgoat&show_icons=true&theme=shadow_green)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgoat&show_icons=true&theme=shadow_green&)
 
 
 <!--
