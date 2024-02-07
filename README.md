@@ -30,7 +30,7 @@ text=I'am%20kimgoat-nl-😀
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Oracle-C34532?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 </p>
 
@@ -44,13 +44,11 @@ text=I'am%20kimgoat-nl-😀
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white"/></a>&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&nbspAws&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;
-
 -->
 
 
