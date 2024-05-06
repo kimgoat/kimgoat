@@ -14,7 +14,6 @@ text=I'am%20kimgoat-nl-😀
   </a>
 </div>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kimyeongseo&theme=default)](https://kimyeongseo.tistory.com/)
 
 
 <br>
