@@ -6,13 +6,13 @@ text=I'am%20kimgoat-nl-😀
 -nl-: enter
 -->
 
-## 📚 Dev Blog
+<!-- ## 📚 Dev Blog
 
 <div>
   <a href="https://kimyeongseo.tistory.com">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
   </a>
-</div>
+</div> -->
 
 
 
