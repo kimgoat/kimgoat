@@ -1,19 +1,41 @@
+
+
+<div>
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimgoat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=venom&text=kimgoat&height=300&color=random)
 
-<!--
-text=I'am%20kimgoat-nl-😀
-%20: blink
--nl-: enter
+</div>
+
+
+
+## 🙋‍♀️ About Me
+
+
+
+<div>
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://kimyeongseo.tistory.com/)](https://kimyeongseo.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimgoatlove@gmail.com)](mailto:kimgoatlove@gmail.com)
+
+  <!--
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
 -->
 
-## 📚 Dev Blog
+</div>
 
+<!--
 <div>
   <a href="https://kimyeongseo.tistory.com">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/> 
   </a>
 </div>
-
+-->
 
 
 <br>
@@ -21,7 +43,7 @@ text=I'am%20kimgoat-nl-😀
 
 ## 🔧 Tech Stack 
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;
@@ -54,6 +76,11 @@ text=I'am%20kimgoat-nl-😀
 
 ## 📌 Kimgoat's Github stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgoat&show_icons=true&theme=shadow_green&)
+
+
+
+
+
 
 
 <!--
