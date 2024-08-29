@@ -1,10 +1,6 @@
 
 
-<div>
-    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimgoat&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 <div align=center>
 
@@ -80,7 +76,11 @@
 
 
 
-
+<div align=right>
+    
+![](https://gh-hits.nomadcoders.workers.dev/view?username=kimgoat&cache)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimgoat&count_bg=%23FF2E88&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
 
 
 <!--
